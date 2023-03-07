@@ -4,5 +4,5 @@
 Para rodar esse projeto na sua maquina, por favor digite:
 
 ```
-node js
+node js, arquivo novo gerado 
 ```
